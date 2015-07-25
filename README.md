@@ -1,5 +1,2 @@
 # hello-world
-My first reposotory
-It is readme-edit branch.
-update.
-new line
+Hello here you can find most importnat iformation. Good luck.
